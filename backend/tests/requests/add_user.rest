@@ -2,5 +2,5 @@ POST http://localhost:5000/users/add
 content-type: application/json
 
 {
-  "username": "jimbo"
+  "username": "jimbo2"
 }

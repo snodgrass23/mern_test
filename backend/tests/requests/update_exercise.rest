@@ -1,0 +1,9 @@
+POST http://localhost:5000/exercises/5e8001a06a4ce84c49510358
+content-type: application/json
+
+{
+  "username": "jimbo",
+  "description": "track repair",
+  "duration": 15,
+  "date": "2020/03/26"
+}
